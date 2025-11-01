@@ -12,3 +12,7 @@ int main()
 	system("pause");
 	return 0;
 }
+int hieu(int a,int b){
+	cout<<"Hieu la: ";
+	return a-b;
+}
