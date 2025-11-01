@@ -27,8 +27,14 @@ int main()
 	return 0;
 }
 
+
 int tong(int a, int b)
 {
 	cout<<"TONG ="
 	return a+b;
+}
+
+int hieu(int a,int b){
+	cout<<"Hieu la: ";
+	return a-b;
 }
