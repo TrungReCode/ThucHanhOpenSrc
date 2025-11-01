@@ -18,7 +18,7 @@ int main()
 	int a = 1, b=2;
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
 	cout<<"Tong ="<<"\n";
-
+	cout << "test log";
 
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
 	cout<<"Tich =" << tich(a,b);
