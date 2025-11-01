@@ -6,9 +6,15 @@ int hieu(int a, int b);
 int tich(int a, int b);
 float thuong(int a, int b);
 int main()
-{
+{	
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
 	cout<<"Tong =";
 	system("pause");
 	return 0;
+}
+
+int tong(int a, int b)
+{
+	cout<<"TONG ="
+	return a+b;
 }
